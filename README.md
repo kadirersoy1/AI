@@ -1,7 +1,5 @@
-# Project Title
 
-Plant Disease Detection using AI
-
+# Plant Disease Detection using AI
 ## Summary
 
 This project aims to develop an AI-based system that detects plant diseases from images of their leaves. 
